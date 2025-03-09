@@ -2,7 +2,10 @@
   "name": "commons-lib",
   "version": "1.0.0",
   "description": "Api Model",
-  "main": "app.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"

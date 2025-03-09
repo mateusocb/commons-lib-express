@@ -50,3 +50,4 @@ class BaseService {
     }
 }
 exports.BaseService = BaseService;
+//# sourceMappingURL=base.service.js.map

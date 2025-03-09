@@ -18,3 +18,4 @@ __decorate([
     (0, typeorm_1.PrimaryGeneratedColumn)(),
     __metadata("design:type", Number)
 ], BaseEntity.prototype, "id", void 0);
+//# sourceMappingURL=base.entity.js.map
